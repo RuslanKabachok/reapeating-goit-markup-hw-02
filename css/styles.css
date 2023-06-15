@@ -36,6 +36,10 @@ ul {
   color: #2196f3;
 }
 
+.current {
+  color: #2196f3;
+}
+
 .header-auth-link {
   font-weight: 500;
   font-size: 14px;
@@ -107,3 +111,67 @@ ul {
   letter-spacing: 0.03em;
   color: #757575;
 }
+
+/* ------------------ЧИМ МИ ЗАЙМАЄМОСЯ------------------ */
+
+.setion-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.16;
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #212121;
+}
+
+.worker-title {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.18;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+
+.worker-descr {
+  font-size: 16px;
+  line-height: 1.18;
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+
+/* ------------------FOOTER------------------ */
+
+.footer {
+  background-color: #2f303a;
+}
+
+.footer-logo {
+  color: #fff;
+}
+
+.footer-address {
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  font-style: normal;
+  color: #fff;
+}
+
+.footer-link {
+  font-size: 14px;
+  line-height: ;
+  letter-spacing: 0.03em;
+  font-style: normal;
+  line-height: 1.71;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.footer-address:hover,
+.footer-address:focus,
+.footer-link:hover,
+.footer-link:focus {
+  color: #2196f3;
+}
+
+/* ------------------FOOTER------------------ */
