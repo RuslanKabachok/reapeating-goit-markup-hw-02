@@ -22,6 +22,7 @@ ul {
   font-weight: Bold;
   font-size: 26px;
   line-height: 1.19;
+  letter-spacing: 0.03em;
 }
 
 .header-nav-link {
@@ -29,6 +30,7 @@ ul {
   font-size: 14px;
   line-height: 1.14;
   color: #212121;
+  letter-spacing: 0.02em;
 }
 
 .header-nav-link:hover,
@@ -45,6 +47,7 @@ ul {
   font-size: 14px;
   line-height: 1.14;
   color: #757575;
+  letter-spacing: 0.02em;
 }
 
 .header-auth-link:hover,
